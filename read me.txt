@@ -1,0 +1,6 @@
+file new repository
+push towrad
+publish publically
+give access through url
+push to update, makes new commit	
+first thing is fetch new version
